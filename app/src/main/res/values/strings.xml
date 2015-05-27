@@ -2,4 +2,6 @@
     <string name="app_name">Split or Steal</string>
     <string name="split">Split</string>
     <string name="steal">Steal</string>
+    <string name="parse_app_id">Bq7X8GXmWG2HlUGt90CkFQVwNZ8fuHX5hSiMTDNl</string>
+    <string name="parse_client_key">gPSjuFTqGhN7yiHbGZBJ5doJfdqptJsRL4cbTFWK</string>
 </resources>
