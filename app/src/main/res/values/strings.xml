@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Split or Steal</string>
+    <string name="split">Split</string>
+    <string name="steal">Steal</string>
+</resources>
