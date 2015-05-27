@@ -2,27 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/robertkim/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-38eeb8e4ed1c326dadb4c251da43d604dea78f1e.jar" />
-    </item>
-    <item
-        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/classes-c2e94c233e01d172d625cebc0f74fbe267b0158b.jar" />
-    </item>
-    <item
-        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/SplitorSteal/ParseLoginUI/unspecified/libs/Parse-1.9.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
-        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-6be3e1f7e1dd51a17b8e9a36a682e12ed0030437.jar" />
-    </item>
-    <item
         jar="/Users/robertkim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -37,6 +16,27 @@
         <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-21e17a4055fa0ba14dbce4596d1a9a7294e94d9b.jar" />
     </item>
     <item
+        jar="/Users/robertkim/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-38eeb8e4ed1c326dadb4c251da43d604dea78f1e.jar" />
+    </item>
+    <item
+        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/SplitorSteal/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-d550094782264e0e90844877d8f646c729e477f8.jar" />
+    </item>
+    <item
+        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/classes-c2e94c233e01d172d625cebc0f74fbe267b0158b.jar" />
+    </item>
+    <item
         jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/SplitorSteal/ParseLoginUI/unspecified/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -44,18 +44,11 @@
         <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/classes-b7a7697631914aea2758058b21a632bf6c158358.jar" />
     </item>
     <item
-        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/libs/Parse-1.9.2.jar"
+        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/SplitorSteal/ParseLoginUI/unspecified/libs/Parse-1.9.2.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fe739334780fe321141e62720822c2d456061899">
-        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-d4c367f9505359fe33cd9bfc1d79b96a8e070e5f.jar" />
-    </item>
-    <item
-        jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/SplitorSteal/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
-        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-112265cb799a79a99acee9ba13f2a8dd7b7be20f.jar" />
+        <dex dex="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-1448cc1de88c262024695e50c6d32b582a6de04e.jar" />
     </item>
     <item
         jar="/Users/robertkim/AndroidStudioProjects/SplitorSteal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
