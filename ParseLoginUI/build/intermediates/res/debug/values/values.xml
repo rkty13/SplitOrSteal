@@ -143,6 +143,11 @@
     <!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Send</string>
+    <!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title">Split or Steal</string>
+    <!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values/values.xml -->
+    <eat-comment/>
     <style name="MessengerButton">
     <item name="android:clickable">true</item>
   </style>

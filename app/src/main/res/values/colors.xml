@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#34495E</color>
+    <color name="split_green">#2ECC71</color>
+    <color name="steal_red">#E74C3C</color>
+    <color name="text_light">#FFFFFF</color>
+</resources>

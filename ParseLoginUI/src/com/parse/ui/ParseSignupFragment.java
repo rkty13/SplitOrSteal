@@ -30,7 +30,7 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.parse.ParseException;
 import com.parse.ParseUser;
@@ -57,6 +57,11 @@ public class ParseSignupFragment extends ParseLoginFragmentBase implements OnCli
   private static final String LOG_TAG = "ParseSignupFragment";
   private static final int DEFAULT_MIN_PASSWORD_LENGTH = 6;
   private static final String USER_OBJECT_NAME_FIELD = "name";
+  private static final String USER_OBJECT_BALANCE_FIELD = "balance";
+  private static final String USER_OBJECT_GAMES_WON_FIELD = "games_won";
+  private static final String USER_OBJECT_TOTAL_GAMES_FIELD = "total_games";
+  private static final String USER_OBJECT_NUM_SPLIT_FIELD = "num_split";
+  private static final String USER_OBJECT_NUM_STEAL_FIELD = "num_steal";
 
   public static ParseSignupFragment newInstance(Bundle configOptions, String username, String password) {
     ParseSignupFragment signupFragment = new ParseSignupFragment();
@@ -84,7 +89,7 @@ public class ParseSignupFragment extends ParseLoginFragmentBase implements OnCli
 
     View v = inflater.inflate(R.layout.com_parse_ui_parse_signup_fragment,
         parent, false);
-    ImageView appLogo = (ImageView) v.findViewById(R.id.app_logo);
+    TextView appLogo = (TextView) v.findViewById(R.id.app_logo);
     usernameField = (EditText) v.findViewById(R.id.signup_username_input);
     passwordField = (EditText) v.findViewById(R.id.signup_password_input);
     confirmPasswordField = (EditText) v
@@ -96,9 +101,9 @@ public class ParseSignupFragment extends ParseLoginFragmentBase implements OnCli
     usernameField.setText(username);
     passwordField.setText(password);
 
-    if (appLogo != null && config.getAppLogo() != null) {
-      appLogo.setImageResource(config.getAppLogo());
-    }
+//    if (appLogo != null && config.getAppLogo() != null) {
+//      appLogo.setImageResource(config.getAppLogo());
+//    }
 
     if (config.isParseLoginEmailAsUsername()) {
       usernameField.setHint(R.string.com_parse_ui_email_input_hint);
@@ -186,6 +191,12 @@ public class ParseSignupFragment extends ParseLoginFragmentBase implements OnCli
       if (name.length() != 0) {
         user.put(USER_OBJECT_NAME_FIELD, name);
       }
+
+      user.put(USER_OBJECT_BALANCE_FIELD, 500);
+      user.put(USER_OBJECT_TOTAL_GAMES_FIELD, 0);
+      user.put(USER_OBJECT_GAMES_WON_FIELD, 0);
+      user.put(USER_OBJECT_NUM_SPLIT_FIELD, 0);
+      user.put(USER_OBJECT_NUM_STEAL_FIELD, 0);
 
       loadingStart();
       user.signUpInBackground(new SignUpCallback() {

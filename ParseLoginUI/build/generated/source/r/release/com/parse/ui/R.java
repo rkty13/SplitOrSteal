@@ -361,6 +361,7 @@ containing a value of this type.
         public static int com_parse_ui_username_input_hint=0x7f070040;
         public static int com_parse_ui_username_taken_toast=0x7f070041;
         public static int messenger_send_button_text=0x7f070042;
+        public static int title=0x7f070043;
     }
     public static final class style {
         public static int MessengerButton=0x7f080000;

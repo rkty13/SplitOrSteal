@@ -251,6 +251,7 @@ public final class R {
 		public static final int com_parse_ui_username_input_hint = 0x7f070040;
 		public static final int com_parse_ui_username_taken_toast = 0x7f070041;
 		public static final int messenger_send_button_text = 0x7f070042;
+		public static final int title = 0x7f070043;
 	}
 	public static final class style {
 		public static final int MessengerButton = 0x7f080000;
