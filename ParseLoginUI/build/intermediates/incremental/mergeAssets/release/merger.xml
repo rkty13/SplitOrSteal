@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/src/release/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/eric/Documents/Github/SplitOrSteal/ParseLoginUI/src/main/assets"/></dataSet><dataSet config="release"><source path="/home/eric/Documents/Github/SplitOrSteal/ParseLoginUI/src/release/assets"/></dataSet></merger>

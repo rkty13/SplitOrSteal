@@ -58,4 +58,4 @@
         android:text="@string/com_parse_ui_create_account_button_label" />
 
 </LinearLayout>
-<!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/res/layout/com_parse_ui_parse_signup_form.xml --><!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/build/intermediates/bundles/debug/res/layout/com_parse_ui_parse_signup_form.xml -->
+<!-- From: file:/home/eric/Documents/Github/SplitOrSteal/ParseLoginUI/res/layout/com_parse_ui_parse_signup_form.xml --><!-- From: file:/home/eric/Documents/Github/SplitOrSteal/ParseLoginUI/build/intermediates/bundles/debug/res/layout/com_parse_ui_parse_signup_form.xml -->

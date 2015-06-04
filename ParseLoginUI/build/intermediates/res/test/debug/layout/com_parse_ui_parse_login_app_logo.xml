@@ -6,4 +6,4 @@
     android:text="@string/title"
     android:contentDescription="@string/com_parse_ui_logo_content_description"
     android:textSize="72sp"
-    android:gravity="center_horizontal" /><!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/res/layout/com_parse_ui_parse_login_app_logo.xml --><!-- From: file:/Users/robertkim/AndroidStudioProjects/SplitorSteal/ParseLoginUI/build/intermediates/bundles/debug/res/layout/com_parse_ui_parse_login_app_logo.xml -->
+    android:gravity="center_horizontal" /><!-- From: file:/home/eric/Documents/Github/SplitOrSteal/ParseLoginUI/res/layout/com_parse_ui_parse_login_app_logo.xml --><!-- From: file:/home/eric/Documents/Github/SplitOrSteal/ParseLoginUI/build/intermediates/bundles/debug/res/layout/com_parse_ui_parse_login_app_logo.xml -->
