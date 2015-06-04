@@ -36,7 +36,7 @@ public class MainActivity extends ActionBarActivity {
         mDrawerList = (ListView) findViewById(R.id.leftDrawer);
 
         //Set adapter for listview
-        mDrawerList.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, mNavigationLinks));
+        mDrawerList.setAdapter(new ArrayAdapter<String>(this, R.layout.list_view_text, mNavigationLinks));
 
         //Set list's click listener
         mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
