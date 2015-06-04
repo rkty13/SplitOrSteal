@@ -33,6 +33,8 @@ public class ProfileFragment extends Fragment {
     TextView mBalanceText;
     Button mPlayButton;
 
+
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
