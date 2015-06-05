@@ -2,13 +2,11 @@ package io.robertkim.splitorsteal;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.util.Log;
-import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -29,7 +27,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_profile);
+        setContentView(R.layout.activity_main);
 
         mNavigationLinks = getResources().getStringArray(R.array.drawer_array);
         mDrawerLayout = (DrawerLayout)findViewById(R.id.drawer_layout);
@@ -70,12 +68,12 @@ public class MainActivity extends ActionBarActivity {
         } else {
             Log.d("ffdsa", "asdfsdfasdf");
             FragmentManager fm = getSupportFragmentManager();
-            Fragment fragment = fm.findFragmentById(R.id.profileFragmentContainer);
+            Fragment fragment = fm.findFragmentById(R.id.fragmentContainer);
 
             if (fragment == null) {
                 fragment = new ProfileFragment();
                 fm.beginTransaction()
-                        .add(R.id.profileFragmentContainer, fragment)
+                        .add(R.id.fragmentContainer, fragment)
                         .commit();
             }
         }
@@ -100,7 +98,7 @@ public class MainActivity extends ActionBarActivity {
                 fragment = new ProfileFragment();
                 break;
             case 1:
-                fragment = new ProfileFragment();
+                fragment = new PlayFragment();
                 break;
             case 2:
                 fragment = new ProfileFragment();
@@ -113,7 +111,7 @@ public class MainActivity extends ActionBarActivity {
         // Insert the fragment by replacing any existing fragment
         FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction()
-                .replace(R.id.profileFragmentContainer, fragment)
+                .replace(R.id.fragmentContainer, fragment)
                 .commit();
 
         // Highlight the selected item, update the title, and close the drawer

@@ -9,11 +9,7 @@
     <string name="friendly_button">Play a Friend!</string>
     <string-array name="drawer_array">
         <item>Profile</item>
-        <item>Profile</item>
-        <item>Profile</item>
-        <item>Profile</item>
-        <item>Profile</item>
-        <item>Profile</item>
+        <item>Play</item>
     </string-array>
     <string name="drawer_open">open</string>
     <string name="drawer_close">close</string>

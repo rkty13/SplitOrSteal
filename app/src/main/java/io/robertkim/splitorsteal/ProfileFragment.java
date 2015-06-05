@@ -40,15 +40,15 @@ public class ProfileFragment extends Fragment {
         mRoundProfileImage = new RoundImage(bm);
         mImageView.setImageDrawable(mRoundProfileImage);
         mBalanceText = (TextView) v.findViewById(R.id.balanceText);
-        mBalanceText.setText(Integer.toString(ParseUser.getCurrentUser().getInt("balance")));
+        mBalanceText.setText(Long.toString(ParseUser.getCurrentUser().getLong("balance")));
         mPlayButton = (Button) v.findViewById(R.id.playButton);
         mPlayButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 FragmentManager fm = getFragmentManager();
                 fm.beginTransaction()
-                    .addToBackStack(null)
-                    .replace(R.id.profileFragmentContainer, new PlayFragment(), "PlayFragment")
-                    .commit();
+                        .addToBackStack(null)
+                        .replace(R.id.fragmentContainer, new PlayFragment(), "PlayFragment")
+                        .commit();
             }
         });
         return v;
