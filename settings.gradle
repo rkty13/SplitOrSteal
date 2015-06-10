@@ -1,1 +1,1 @@
-include ':app', ':ParseLoginUI', ':circularimageview'
+include ':app', ':ParseLoginUI'

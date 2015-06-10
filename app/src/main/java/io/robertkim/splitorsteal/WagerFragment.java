@@ -18,6 +18,7 @@ import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -36,23 +37,22 @@ public class WagerFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup parent, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_wager, parent, false);
         LinearLayout insert = (LinearLayout) v.findViewById(R.id.wagerLayout);
-        long balance = ParseUser.getCurrentUser().getInt("balance");
-        int mult = 5;
         ViewGroup.LayoutParams bLayout = new ViewGroup.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT);
-        for (long i = 100; i <= balance; i *= mult) {
+
+        ArrayList<Long> wagers = genWagers(ParseUser.getCurrentUser().getLong("balance"));
+
+        for (int i = 0; i < wagers.size(); i++) {
             Button b = new Button(getActivity());
-            b.setText(Long.toString(i));
+            b.setText(Long.toString(wagers.get(i)));
             b.setLayoutParams(bLayout);
             b.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
-                    // TODO
+                    joinAnonymousGame(ParseUser.getCurrentUser().getObjectId());
                 }
             });
             insert.addView(b);
-            mult = mult == 5 ? 2 : 5;
         }
-        parent.addView(insert);
         return v;
     }
 
@@ -74,6 +74,16 @@ public class WagerFragment extends Fragment {
                 }
             }
         });
+    }
+
+    private ArrayList<Long> genWagers(long balance) {
+        ArrayList<Long> gen = new ArrayList<Long>();
+        int mult = 5;
+        for (long i = 100; i <= balance; i *= mult) {
+            gen.add(i);
+            mult = mult == 5 ? 2 : 5;
+        }
+        return gen;
     }
 
     private void joinFriendlyGame(String currentUserId, String friendUserId) {
