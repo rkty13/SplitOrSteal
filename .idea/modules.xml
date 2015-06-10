@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/ParseLoginUI/ParseLoginUI.iml" filepath="$PROJECT_DIR$/ParseLoginUI/ParseLoginUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/SplitOrSteal.iml" filepath="$PROJECT_DIR$/SplitOrSteal.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circularimageview/circularimageview.iml" filepath="$PROJECT_DIR$/circularimageview/circularimageview.iml" />
     </modules>
   </component>
 </project>
