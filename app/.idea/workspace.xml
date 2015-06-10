@@ -7,125 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cef3d480-6e1e-4bce-b087-ad6ec77ed141" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginActivity.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginBuilder.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginConfig.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginDispatchActivity.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginDispatchActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$1$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$2.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$3.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$4$1$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$4$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$4$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$4.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$5.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$6$1$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$6$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$6$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$6$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$6.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragmentBase.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginFragmentBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginHelpFragment$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginHelpFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginHelpFragment.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseLoginHelpFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/outputs/aar/ParseLoginUI-release.aar" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/outputs/aar/ParseLoginUI-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseSignupFragment$1.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseSignupFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseSignupFragment.class" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/classes/release/com/parse/ui/ParseSignupFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/ParseLoginUI.iml" afterPath="$PROJECT_DIR$/../ParseLoginUI/ParseLoginUI.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.iml" afterPath="$PROJECT_DIR$/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../circularimageview/circularimageview.iml" afterPath="$PROJECT_DIR$/../circularimageview/circularimageview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_facebook_activity_layout.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_facebook_activity_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_background.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_like_background.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_like_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_login_silver_background.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_login_silver_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_send_background.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_facebook_button_send_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_facebook_login_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_facebook_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_facebook_tooltip_bubble.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_facebook_tooltip_bubble.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/drawable/com_parse_ui_facebook_login_button_background_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/drawable/com_parse_ui_facebook_login_button_background_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_parse_ui_facebook_login_button_background_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_parse_ui_facebook_login_button_background_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_app_logo.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_app_logo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_app_logo.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_app_logo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/drawable/com_parse_ui_parse_login_button_background_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/drawable/com_parse_ui_parse_login_button_background_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_parse_ui_parse_login_button_background_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_parse_ui_parse_login_button_background_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_form.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_form.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_form.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_form.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout-land/com_parse_ui_parse_login_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout-land/com_parse_ui_parse_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout-land/com_parse_ui_parse_login_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout-land/com_parse_ui_parse_login_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/color/com_parse_ui_parse_login_help_button_label_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/color/com_parse_ui_parse_login_help_button_label_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/color/com_parse_ui_parse_login_help_button_label_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/color/com_parse_ui_parse_login_help_button_label_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_help_form.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_help_form.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_help_form.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_help_form.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_help_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_help_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout-land/com_parse_ui_parse_login_help_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout-land/com_parse_ui_parse_login_help_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_help_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_help_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout-land/com_parse_ui_parse_login_help_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout-land/com_parse_ui_parse_login_help_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_third_party_section.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_login_third_party_section.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_third_party_section.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_login_third_party_section.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_signup_form.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_signup_form.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_signup_form.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_signup_form.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_signup_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout/com_parse_ui_parse_signup_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout-land/com_parse_ui_parse_signup_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/layout-land/com_parse_ui_parse_signup_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_signup_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/com_parse_ui_parse_signup_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout-land/com_parse_ui_parse_signup_fragment.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout-land/com_parse_ui_parse_signup_fragment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/drawable/com_parse_ui_twitter_login_button_background_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/drawable/com_parse_ui_twitter_login_button_background_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_parse_ui_twitter_login_button_background_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/com_parse_ui_twitter_login_button_background_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/res/layout/list_view_text.xml" afterPath="$PROJECT_DIR$/src/main/res/layout/list_view_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/incremental/mergeResources/release/merger.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/incremental/mergeResources/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/incremental/packageResources/release/merger.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/incremental/packageResources/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_blue_bg_round.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_blue_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_blue_bg_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_blue_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_blue_large.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_blue_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_blue_round.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_blue_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_blue_small.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_blue_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_white_large.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_white_large.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_white_round.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_white_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_white_small.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/layout/messenger_button_send_white_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_white_bg_round.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_white_bg_round.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_white_bg_selector.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/drawable/messenger_button_white_bg_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-af/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-af/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ar/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ar/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-bn/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-bn/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-cs/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-cs/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-da/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-da/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-de/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-de/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-el/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-el/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-es/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-es/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-es-rES/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-es-rES/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-fi/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-fi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-fr/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-fr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-gu/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-gu/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-he/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-he/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-hi/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-hi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-in/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-in/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-it/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-it/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-iw/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-iw/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ja/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ja/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-kn/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-kn/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ko/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ko/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ml/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ml/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-mr/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-mr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ms/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ms/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-nb/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-nb/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-nl/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-nl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pa/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pa/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pl/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pt/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pt/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pt-rPT/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-pt-rPT/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ru/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ru/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-sv/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-sv/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ta/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-ta/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-te/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-te/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-th/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-th/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-tl/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-tl/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-tr/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-tr/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-vi/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-vi/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-zh-rCN/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-zh-rCN/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-zh-rHK/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-zh-rHK/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-zh-rTW/values.xml" afterPath="$PROJECT_DIR$/../ParseLoginUI/build/intermediates/res/release/values-zh-rTW/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="app.iws" />
@@ -178,32 +63,41 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63211846">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
-                <element signature="e#1651#1671#0" expanded="true" />
-                <element signature="e#1673#1694#0" expanded="true" />
+                <element signature="e#982#1000#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_view_text.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list_view_text.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_view_text.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18584071">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.354839">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.6">
+            <state vertical-scroll-proportion="0.0">
               <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
@@ -1969,8 +1863,9 @@
         <option value="$PROJECT_DIR$/src/main/res/layout/activity_profile.xml" />
         <option value="$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/ProfileFragment.java" />
         <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/list_view_text.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2028,89 +1923,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="splitorsteal" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParseLoginUI" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2343,12 +2164,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.50193477" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946378" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946378" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.49806523" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.49806523" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.49806523" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2385,10 +2206,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1651#1671#0" expanded="true" />
-            <element signature="e#1673#1694#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_view_text.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2404,10 +2249,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#1651#1671#0" expanded="true" />
-            <element signature="e#1673#1694#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2415,10 +2257,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1651#1671#0" expanded="true" />
-            <element signature="e#1673#1694#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2426,25 +2265,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#1651#1671#0" expanded="true" />
-            <element signature="e#1673#1694#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1651#1671#0" expanded="true" />
-            <element signature="e#1673#1694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2456,30 +2281,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11627907">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_profile.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_game.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/ProfileFragment.java">
@@ -2496,14 +2320,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout-land/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/drawable/default_profile.png">
@@ -2512,20 +2336,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_view_text.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.6">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_view_text.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.354839">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2533,23 +2368,19 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/io/robertkim/splitorsteal/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-          <folding>
-            <element signature="e#1651#1671#0" expanded="true" />
-            <element signature="e#1673#1694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_view_text.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18584071">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63211846">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="e#982#1000#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
