@@ -48,7 +48,7 @@ public class WagerFragment extends Fragment {
             b.setLayoutParams(bLayout);
             b.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
-                    // TODO
+                    joinAnonymousGame(ParseUser.getCurrentUser().getObjectId());
                 }
             });
             insert.addView(b);
