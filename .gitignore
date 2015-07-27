@@ -4,4 +4,7 @@
 /.idea/libraries
 .DS_Store
 /build
-/ParseLoginUI/build/intermediates/
+ParseLoginUI/
+.idea/
+app/app.iml
+SplitOrSteal.iml
